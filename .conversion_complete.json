@@ -1,0 +1,15 @@
+{
+  "gallery_id": "gallery-079",
+  "source_name": "akut_apand_x20_H&E.svs",
+  "source_format": "SVS",
+  "width": 55680,
+  "height": 34944,
+  "total_tiles": 10137,
+  "completed_tiles": 10137,
+  "has_label": false,
+  "jpeg_quality": 72,
+  "jpeg_subsampling": 2,
+  "tile_size": 512,
+  "super_tile_size": 2048,
+  "encode_workers": 4
+}
